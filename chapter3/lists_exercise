@@ -1,0 +1,4 @@
+#python list exercise
+
+guest_list = ["Adi", "Sruthi", "Mummy", "Daddy"]
+print(f"All members of the guest list are {guest_list}")

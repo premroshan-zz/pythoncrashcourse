@@ -1,0 +1,5 @@
+bicycles = ['trek', 'bianchi', 'canondale']
+print(bicycles)
+# print one element from list
+print(bicycles[0])
+
